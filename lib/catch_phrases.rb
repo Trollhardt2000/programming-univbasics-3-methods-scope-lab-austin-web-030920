@@ -13,7 +13,7 @@ def link
   puts phrase
 end
 
-def any_phrase(name)
-  
+def any_phrase(phrase)
+  phrase = "Do "
 end
   
